@@ -3,7 +3,9 @@
 ```
 npm i docsify-cli -g
 
-docsify serve xueyou_javascript
+docsify init projectName
+
+docsify serve xueyou_typescript
 
 ```
 

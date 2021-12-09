@@ -1,6 +1,3 @@
-- [项目](/src/0001.md)
-  - [下载](/src/0002.md)
-
-- [JavaScript](/src/0003.md)
-  - [JavaScript](/src/0004.md)
-  - [ES6](/src/0005.md)
+- [学习总结](/src/0001.md)
+  - [搭建](/src/0002.md)
+  - [数据类型](/src/0003.md)

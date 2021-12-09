@@ -1,3 +1,3 @@
 # 随记
 
-> 随记JavaScript
+> 随记TypeScript
