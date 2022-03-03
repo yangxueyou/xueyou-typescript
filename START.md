@@ -1,11 +1,11 @@
 # 启动
 
-```
-npm i docsify-cli -g
+```js
+$ npm i docsify-cli -g
 
-docsify init projectName
+$ docsify init projectName
 
-docsify serve xueyou-typescript
+$ docsify serve xueyou-typescript
 
 ```
 
@@ -17,3 +17,5 @@ https://docsify.js.org/#/?id=docsify
 # 首页
 
 https://yangxueyou.github.io/xueyou-blog/#/
+
+
